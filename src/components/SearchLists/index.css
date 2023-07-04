@@ -1,0 +1,41 @@
+.list-item {
+  display: flex;
+  justify-content: space-between;
+}
+
+.list-details {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.time {
+  color: #475569;
+  font-weight: 600;
+  font-size: 14px;
+}
+
+.domain-logo {
+  width: 24px;
+  height: 24px;
+  margin-right: 20px;
+}
+
+.title {
+  margin-right: 20px;
+  color: #475569;
+  font-weight: 500;
+  font-size: 14px;
+}
+
+.domain-url {
+  color: #64748b;
+  font-size: 12px;
+  font-weight: 490;
+}
+
+.delete-button-section {
+  border-width: 0px;
+  background-color: transparent;
+  margin-right: 40px;
+}
